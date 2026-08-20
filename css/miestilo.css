@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+}
+.header{
+    background-color: rgb(21, 87, 30);
+    padding: 1%;
+    color: darkkhaki;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.header-sub{
+    margin-top: 0px;
+    font-size: 20px;
+}
+.header-title{
+    margin: 0%;
+}
+
+.bg-menu{
+    background-color: darkgreen;
+    padding: 1%;
+    text-align: center;
+}
+
+.a-menu{
+    color: darkkhaki;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+.a-menu:hover{
+    color: khaki;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+}
